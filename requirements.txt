@@ -1,0 +1,12 @@
+express;
+bcrypjst;
+cors;
+dotenv;
+nodemone;
+jsonwebtoken;
+mongoose;
+nodemailer;
+cookie-parser;
+
+
+
